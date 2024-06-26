@@ -1,0 +1,39 @@
+@charset "ISO-8859-1";
+@font-face {
+    font-family: "baloo";
+    src: url(fonts/BalooBhaina2-VariableFont_wght.ttf);
+}
+.bg-colour{
+    background-color: rgb(78, 76, 76) !important;
+}
+
+
+
+
+
+/* <-------index-----> */
+
+#new-arr{
+    margin-top: 30px;
+    border: 2px solid black;
+    border-radius: 50px;
+    font-family: "baloo";
+   
+}
+
+/* <-------footer--------> */
+
+.f-links a:hover{
+
+    color: rgb(253, 175, 175);
+
+}
+
+.hover a:hover{
+	background-color : gray;
+	color: white;
+}
+.card-img-top{
+	width: 6rem;
+	height: auto;
+}
